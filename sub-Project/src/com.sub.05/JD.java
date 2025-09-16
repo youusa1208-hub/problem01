@@ -1,4 +1,4 @@
-import package com.sub.05;
+package com.sub.05;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-import package com.sub.05;
+package com.sub.05;
 // スマートホーム制御システムクラス。
 public class SmartHomeControl {
     // ポリモーフィズム。

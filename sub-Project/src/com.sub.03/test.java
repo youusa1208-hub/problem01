@@ -1,6 +1,3 @@
-import com.Demo.Demo.Movie;
-import com.Demo.Demo.MovieOperator;
-
 public class test {
     public static void main(String[] args) {
         Movie[] movies = new Movie[6];

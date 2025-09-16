@@ -1,5 +1,3 @@
-import com.Demo.Demo.Movie;
-
 import java.util.Scanner;
 
 /**

@@ -1,4 +1,4 @@
-import package com.sub.05;
+package com.sub.05;
 
 public class TV extends JD{
     public TV(String name, boolean status) {

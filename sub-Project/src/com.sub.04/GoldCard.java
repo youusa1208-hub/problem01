@@ -1,4 +1,4 @@
-import package com.sub.04;
+package com.sub.04;
 //
 public class GoldCard extends Card{
     public GoldCard(String card, String name, String phone, double money) {

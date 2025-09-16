@@ -1,5 +1,5 @@
 
-import package com.sub.04;
+package com.sub.04;
 
 public class SilverCard extends Card{
     public SilverCard(String card, String name, String phone, double money) {

@@ -1,4 +1,4 @@
-import package com.sub.04;
+package com.sub.04;
 
 import java.util.Scanner;
 

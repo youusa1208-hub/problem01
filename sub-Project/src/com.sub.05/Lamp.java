@@ -1,4 +1,4 @@
-import package com.sub.05;
+package com.sub.05;
 // 照明
 public class Lamp extends JD{
     public Lamp(String name, boolean status) {
