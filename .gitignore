@@ -1,16 +1,9 @@
-# ???o–Ú? 
 bin/ 
 build/ 
 out/ 
- 
-# IntelliJ IDEA”z’u•¶Œ 
 .idea/ 
 *.iml 
- 
-# ‘€ìŒn?•¶Œ 
 .DS_Store 
 Thumbs.db 
- 
-# “úu˜a??•¶Œ 
 *.log 
 *.tmp 
