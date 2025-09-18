@@ -1,0 +1,11 @@
+package dao;
+
+public class Dao implements AutoCloseable {
+
+	@Override
+	public void close() throws Exception {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

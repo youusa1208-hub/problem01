@@ -1,0 +1,10 @@
+package dao;
+
+public class Dao implement AutoCloseable {
+
+	@Override
+	pubilc void close()throws Exception{
+		
+	}
+	
+}

@@ -1,0 +1,13 @@
+package db;
+
+import java.io.Serializable;
+
+public class Dao implements Serializable, AutoCloseable {
+
+	@Override
+	public void close() throws Exception {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

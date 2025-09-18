@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package beans;
+
+import java.io.Serializable;
+
+/**
+ * @author sya
+ *
+ */
+public class PokeBean implements Serializable {
+
+}
