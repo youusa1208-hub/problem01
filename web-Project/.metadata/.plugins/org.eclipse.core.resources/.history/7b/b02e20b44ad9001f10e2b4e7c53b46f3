@@ -1,5 +1,0 @@
-package dao;
-
-public class PtypeDao extends Dao {
-
-}

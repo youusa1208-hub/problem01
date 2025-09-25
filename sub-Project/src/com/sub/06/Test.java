@@ -1,4 +1,4 @@
-package com.Demo.Demo8Test;
+package com.sub;
 
 public class Test {
     public static void main(String[] args) {

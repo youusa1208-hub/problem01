@@ -1,4 +1,4 @@
-package com.Demo.Demo4test;
+package com.sub;
 
 public class Game {
     public static void main(String[] args) {

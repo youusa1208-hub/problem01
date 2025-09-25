@@ -1,5 +1,0 @@
-package dao;
-
-public class PmDao extends Dao {
-
-}
